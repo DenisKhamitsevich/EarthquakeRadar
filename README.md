@@ -1,4 +1,9 @@
 # EarthquakeRadar
+
+
+![EarthquakeRadar](https://user-images.githubusercontent.com/61109220/151611464-1d71a6da-c026-4507-8aeb-64b009f653e0.PNG)
+
+
 EarthquakeRadar is an application that shows all of the earthquakes with the magnitude of 2.5+, that happened in the last 7 days. 
 
 Main features:
@@ -8,3 +13,4 @@ Main features:
 - "Thread circle" for each earthquake, which means that if you click on any earthquake, you will see all the cities, that could be affected by this earthquake.
 - Interactive "key" of the map, which means that if you want to see only cities, for example, you can click on "city markers", and only cities will be shown on the map.
 - Top 20 biggest earthquakes of the past 7 days, that are shown on the right side of the application. And they are also interactive, so you can click on any of them, and only that one selected earthquake will be shown on the map.
+
